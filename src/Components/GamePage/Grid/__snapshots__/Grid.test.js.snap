@@ -1,0 +1,135 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<Fragment>
+  <div
+    id="Game-grid"
+  >
+    <div
+      className="grid dot-square"
+      id="44"
+      key="44"
+    />
+    <div
+      className="grid dot-square"
+      id="43"
+      key="43"
+    />
+    <div
+      className="grid dot-square"
+      id="42"
+      key="42"
+    />
+    <div
+      className="grid dot-square"
+      id="41"
+      key="41"
+    />
+    <div
+      className="grid dot-square"
+      id="40"
+      key="40"
+    />
+    <div
+      className="grid dot-square"
+      id="34"
+      key="34"
+    />
+    <div
+      className="grid dot-square"
+      id="33"
+      key="33"
+    />
+    <div
+      className="grid dot-square"
+      id="32"
+      key="32"
+    />
+    <div
+      className="grid dot-square"
+      id="31"
+      key="31"
+    />
+    <div
+      className="grid dot-square"
+      id="30"
+      key="30"
+    />
+    <div
+      className="grid dot-square"
+      id="24"
+      key="24"
+    />
+    <div
+      className="grid dot-square"
+      id="23"
+      key="23"
+    />
+    <div
+      className="grid dot-square"
+      id="22"
+      key="22"
+    />
+    <div
+      className="grid dot-square"
+      id="21"
+      key="21"
+    />
+    <div
+      className="grid dot-square"
+      id="20"
+      key="20"
+    />
+    <div
+      className="grid dot-square"
+      id="14"
+      key="14"
+    />
+    <div
+      className="grid dot-square"
+      id="13"
+      key="13"
+    />
+    <div
+      className="grid dot-square"
+      id="12"
+      key="12"
+    />
+    <div
+      className="grid dot-square"
+      id="11"
+      key="11"
+    />
+    <div
+      className="grid dot-square"
+      id="10"
+      key="10"
+    />
+    <div
+      className="grid dot-square"
+      id="04"
+      key="04"
+    />
+    <div
+      className="grid dot-square"
+      id="03"
+      key="03"
+    />
+    <div
+      className="grid dot-square"
+      id="02"
+      key="02"
+    />
+    <div
+      className="grid dot-square"
+      id="01"
+      key="01"
+    />
+    <div
+      className="grid dot-square"
+      id="00"
+      key="00"
+    />
+  </div>
+</Fragment>
+`;

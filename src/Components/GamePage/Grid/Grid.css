@@ -1,0 +1,57 @@
+#Game-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 50px);
+    grid-template-rows: repeat(5, 50px);
+    align-items: center;
+    background-color: black;
+    box-shadow: 10px 10px 20px white;
+    width: 250px;
+    height: 250px;
+    margin: 5vh auto;
+}
+
+#Game-grid div {
+    margin: auto;
+}
+
+.dot-square {
+    background-color: palevioletred;
+    border-radius: 100%;
+    width: 10px;
+    height: 10px;
+}
+
+.empty-square {
+    background-color: black;
+    width: 30px;
+    height: 30px;
+}
+
+.position-zero {
+    background-image: url("https://c.tenor.com/HiVVJv-skJcAAAAC/pac-man.gif");
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 30px;
+    height: 30px;
+    background-size: contain;
+}
+
+:root{
+    --UP: rotate(-90deg);
+    --DOWN: rotate(90deg);
+    --LEFT: scaleX(-1);
+    --RIGHT: rotate(0deg);
+}
+
+.img-UP {
+    transform: var(--UP);
+}
+.img-DOWN {
+    transform: var(--DOWN);
+}
+.img-LEFT {
+    transform: var(--LEFT);
+}
+.img-RIGHT {
+    transform: var(--RIGHT);
+}
