@@ -1,6 +1,8 @@
 # PACMAN REACTJS-APP
-Developed by Maria Belen Duhart Arruti
-If you want to run this app open it in your Visual Studio Code and write the following command on a new terminal:
+Pacman Game developed by Maria Belen Duhart Arruti.
+<br/>
+If you want to run this app open it in your Visual Studio Code and write the following commands on a new terminal:
+- npm install
 - npm start
 
 
